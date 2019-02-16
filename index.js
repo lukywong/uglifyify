@@ -44,7 +44,7 @@ function uglifyify(file, opts) {
     debug = opts.sourceMap !== false && debug
     opts  = extend({}, {
       compress: true,
-      mangle: true,
+      mangle: false,
       sourceMap: {
         filename: file
       }
