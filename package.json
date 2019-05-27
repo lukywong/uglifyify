@@ -1,5 +1,5 @@
 {
-  "name": "uglifyify",
+  "name": "uglifyify2",
   "version": "5.0.1",
   "description": "A browserify transform which minifies your code using UglifyJS2",
   "main": "index.js",
